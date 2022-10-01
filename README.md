@@ -35,7 +35,7 @@ apt update && apt install git php curl openssh -y && git clone https://github.co
 #### [+] All types of Bugs Fixed !
 #### [+] Useful for Beginners !
 #
-## **[!] I am not Responsible for any Misuse of this tool . Use at your Own Risk [!]**
+## **[!] I am not Responsible for any Missuse of this tool . Use at your Own Risk [!]**
 #
 ## [+] Find Me on :
 ### [~] [Facebook](https://facebook.com/tahmid.rayat.official/)
